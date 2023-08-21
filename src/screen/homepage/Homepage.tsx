@@ -24,6 +24,8 @@ const Homepage = ({ navigation, route }: Props) => {
 			<Text>dahslkhfdla</Text>
 			<Text>Homepage</Text>
 			<Text>dahslkhfdla</Text>
+			<Text>Homepage</Text>
+			<Text>dahslkhfdla</Text>
 			<Button title='click me' onPress={handleClick} />
 		</View>
 	)
